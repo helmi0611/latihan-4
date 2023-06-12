@@ -1,0 +1,13 @@
+.container{
+    display: inline-grid;
+    padding: 10px;
+    
+}
+.card-product{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid;
+    border-radius: 18px;
+}
